@@ -49,4 +49,9 @@ public class ManagerLevel : MonoBehaviour
         currentTarget = p_target;
         print("teste");
     }
+
+    public void Exit()
+    {
+        Application.Quit();
+    }
 }
