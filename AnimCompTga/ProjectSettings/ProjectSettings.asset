@@ -14,7 +14,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: Mauricio Scherer
   productName: "O poder da sucul\xEAncia"
-  defaultCursor: {fileID: 2800000, guid: 4424b62acacb700489d767ce410b3895, type: 3}
+  defaultCursor: {fileID: 0}
   cursorHotspot: {x: 1, y: 1}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
