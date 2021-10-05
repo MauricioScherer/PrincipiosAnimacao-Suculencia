@@ -9,6 +9,16 @@ public class AudioPeer_Drums : MonoBehaviour
     public static float[] _sample = new float[512];
     public static float[] _freqBand = new float[8];
 
+    //44100Hz / 512 = 86Hz
+    //0 -> 2 = 172 Hz
+    //1 -> 4 = 344 Hz
+    //2 -> 8 = 688 Hz
+    //3 -> 16 = 1376 Hz
+    //4 -> 32 = 2752 Hz
+    //5 -> 64 = 5504 Hz
+    //6 -> 128 = 11008 Hz
+    //7 -> 256 = 22016 Hz
+
     void Start()
     {
         _audioSource = GetComponent<AudioSource>();

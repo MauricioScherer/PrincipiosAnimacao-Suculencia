@@ -1418,7 +1418,7 @@ MonoBehaviour:
   impact: {fileID: 3704460099087029490, guid: 83d3741a75a1bd544aefd81bd2874bb1, type: 3}
   txtPoints: {fileID: 102779692}
   enemy: {fileID: 8474135785735348545, guid: 19b36f2ad9511bf4e9b4cfd70c945654, type: 3}
-  timeInstantiateEnemy: 0.5
+  timeInstantiateEnemy: 1
   cursorTexture: {fileID: 2800000, guid: 3c88460cd356c9f49a7fb660b04e5adb, type: 3}
 --- !u!4 &1165915902
 Transform:
